@@ -1,0 +1,22 @@
+{
+  "name": "metalsmith-one-lunr",
+  "version": "0.0.1",
+  "description": "metalsmith",
+  "keywords": [
+    "metalsmith",
+    "plugin"
+  ],
+  "author": "GrapeCity",
+  "license": "MIT",
+  "main": "lib",
+  "dependencies": {
+    "lunr": "^2.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node 'test/test-build'"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
